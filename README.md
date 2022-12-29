@@ -9,7 +9,7 @@
     <li>rm (remove file/folder)</li>
     <li>cp (to copy any file from one directory/folder to another)</li>
     <li>touch (to create any type of file)</li>
-    <p>and many more command in pdf....</p>
+    <p>and many more commands in pdf....</p>
 </ol>
 <h3>Interaction b/w Git & Github :</h3>
 <ol>

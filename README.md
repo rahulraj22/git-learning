@@ -18,3 +18,4 @@
     <li>Switching one branch to another: command => git checkout</li>
     <li>Create a new branch and switch immediately to that branch: command => git checkout -b newBranchName</li>
 </ol>
+<p> And many more covered in pdf..lessgo..😎✌
